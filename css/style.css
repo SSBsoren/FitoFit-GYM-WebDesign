@@ -1,0 +1,32 @@
+body{
+    background: uRL(/images/gym.gif) no-repeat center center fixed;
+    background-size: cover
+}
+div{
+    background-color:darkcyan;
+    border-radius: 10px;
+    width: 60%;
+    margin:2px auto;
+    text-align: center;
+    height: 430px;
+    opacity: 0.8s
+   
+}
+i{
+    font-size: 6em;
+}
+h1{
+    color: white;
+    font-size: 5em;
+    font-family: 'Mukta Mahee', sans-serif;
+}
+p{
+    color: white;
+    font-style: bold;
+}
+button{
+    background: gray;
+    padding: 5px;
+    color: white;
+    border-radius: 2px;
+}
